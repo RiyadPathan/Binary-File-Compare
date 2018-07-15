@@ -1,4 +1,3 @@
-/* Written and Copyright by F.J. Faase <faase009 at planet dot nl> */
 
 #define UNIX
 #define OLD_STYLE
